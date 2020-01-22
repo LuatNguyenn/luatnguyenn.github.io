@@ -1,2 +1,2 @@
-# luatnguyenn.github.io
+# luatnguyen.info
 My resume
