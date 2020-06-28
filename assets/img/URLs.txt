@@ -1,0 +1,28 @@
+CARS/applications/cats
+	- GET -> get all applications
+	- POST -> add a new application
+	- PATCH -> update an existing application
+	- DELETE -> delete an existng application 
+
+CARS/applications/dogs
+	- GET
+	- POST
+	- PATCH
+	- DELETE
+
+CARS/applications/volunteers
+	- GET
+	- POST
+	- PATCH
+	- DELETE
+
+CARS/applications/fosters
+	- GET
+	- POST
+	- PATCH
+	- DELETE
+
+dwight@mail.com password123
+carstestadmin@mail.com
+
+    password123
