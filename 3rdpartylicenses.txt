@@ -32,8 +32,6 @@ MIT
 @angular/fire
 MIT
 
-@angular/fire/firestore
-
 @angular/forms
 MIT
 
